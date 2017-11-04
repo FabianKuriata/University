@@ -1,0 +1,788 @@
+"oTest\\oc.ml" 1 0 8 "oTest\\oc.ml" 1 0 17
+type(
+  'a * int -> 'a list
+)
+ident(
+  def replicate "oTest\\oc.ml" 1 0 0 "oTest\\oc.ml" 1 0 -1
+)
+"oTest\\oc.ml" 1 0 19 "oTest\\oc.ml" 1 0 23
+type(
+  'a
+)
+ident(
+  def word "oTest\\oc.ml" 2 31 32 "oTest\\oc.ml" 5 104 132
+)
+"oTest\\oc.ml" 1 0 25 "oTest\\oc.ml" 1 0 26
+type(
+  int
+)
+ident(
+  def x "oTest\\oc.ml" 2 31 32 "oTest\\oc.ml" 5 104 132
+)
+"oTest\\oc.ml" 1 0 17 "oTest\\oc.ml" 1 0 27
+type(
+  'a * int
+)
+"oTest\\oc.ml" 2 31 35 "oTest\\oc.ml" 2 31 36
+type(
+  int
+)
+ident(
+  int_ref x "oTest\\oc.ml" 1 0 25 "oTest\\oc.ml" 1 0 26
+)
+"oTest\\oc.ml" 2 31 37 "oTest\\oc.ml" 2 31 38
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"oTest\\oc.ml" 2 31 39 "oTest\\oc.ml" 2 31 40
+type(
+  int
+)
+"oTest\\oc.ml" 2 31 35 "oTest\\oc.ml" 2 31 40
+type(
+  bool
+)
+"oTest\\oc.ml" 2 31 46 "oTest\\oc.ml" 2 31 54
+type(
+  string -> 'a list
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"oTest\\oc.ml" 2 31 55 "oTest\\oc.ml" 2 31 71
+type(
+  string
+)
+"oTest\\oc.ml" 2 31 46 "oTest\\oc.ml" 2 31 71
+call(
+  tail
+)
+type(
+  'a list
+)
+"oTest\\oc.ml" 3 73 82 "oTest\\oc.ml" 3 73 83
+type(
+  int
+)
+ident(
+  int_ref x "oTest\\oc.ml" 1 0 25 "oTest\\oc.ml" 1 0 26
+)
+"oTest\\oc.ml" 3 73 84 "oTest\\oc.ml" 3 73 85
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"oTest\\oc.ml" 3 73 86 "oTest\\oc.ml" 3 73 87
+type(
+  int
+)
+"oTest\\oc.ml" 3 73 82 "oTest\\oc.ml" 3 73 87
+type(
+  bool
+)
+"oTest\\oc.ml" 3 73 93 "oTest\\oc.ml" 3 73 95
+type(
+  'a list
+)
+"oTest\\oc.ml" 5 104 106 "oTest\\oc.ml" 5 104 110
+type(
+  'a
+)
+ident(
+  int_ref word "oTest\\oc.ml" 1 0 19 "oTest\\oc.ml" 1 0 23
+)
+"oTest\\oc.ml" 5 104 112 "oTest\\oc.ml" 5 104 121
+type(
+  'a * int -> 'a list
+)
+ident(
+  int_ref replicate "oTest\\oc.ml" 1 0 8 "oTest\\oc.ml" 1 0 17
+)
+"oTest\\oc.ml" 5 104 122 "oTest\\oc.ml" 5 104 126
+type(
+  'a
+)
+ident(
+  int_ref word "oTest\\oc.ml" 1 0 19 "oTest\\oc.ml" 1 0 23
+)
+"oTest\\oc.ml" 5 104 128 "oTest\\oc.ml" 5 104 129
+type(
+  int
+)
+ident(
+  int_ref x "oTest\\oc.ml" 1 0 25 "oTest\\oc.ml" 1 0 26
+)
+"oTest\\oc.ml" 5 104 129 "oTest\\oc.ml" 5 104 130
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"oTest\\oc.ml" 5 104 130 "oTest\\oc.ml" 5 104 131
+type(
+  int
+)
+"oTest\\oc.ml" 5 104 128 "oTest\\oc.ml" 5 104 131
+type(
+  int
+)
+"oTest\\oc.ml" 5 104 121 "oTest\\oc.ml" 5 104 132
+type(
+  'a * int
+)
+"oTest\\oc.ml" 5 104 112 "oTest\\oc.ml" 5 104 132
+call(
+  stack
+)
+type(
+  'a list
+)
+"oTest\\oc.ml" 5 104 106 "oTest\\oc.ml" 5 104 132
+type(
+  'a list
+)
+"oTest\\oc.ml" 3 73 79 "oTest\\oc.ml" 5 104 132
+type(
+  'a list
+)
+"oTest\\oc.ml" 2 31 32 "oTest\\oc.ml" 5 104 132
+type(
+  'a list
+)
+"oTest\\oc.ml" 7 138 142 "oTest\\oc.ml" 7 138 152
+type(
+  'a list -> bool
+)
+ident(
+  def polindrome "oTest\\oc.ml" 11 192 192 "oTest\\oc.ml" 1 0 -1
+)
+"oTest\\oc.ml" 7 138 153 "oTest\\oc.ml" 7 138 157
+ident(
+  def list "oTest\\oc.ml" 8 161 162 "oTest\\oc.ml" 8 161 182
+)
+"oTest\\oc.ml" 7 138 152 "oTest\\oc.ml" 7 138 158
+type(
+  'a list
+)
+"oTest\\oc.ml" 8 161 162 "oTest\\oc.ml" 8 161 166
+type(
+  'a list
+)
+ident(
+  int_ref list "oTest\\oc.ml" 7 138 152 "oTest\\oc.ml" 7 138 158
+)
+"oTest\\oc.ml" 8 161 167 "oTest\\oc.ml" 8 161 168
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"oTest\\oc.ml" 8 161 169 "oTest\\oc.ml" 8 161 177
+type(
+  'a list -> 'a list
+)
+ident(
+  ext_ref List.rev
+)
+"oTest\\oc.ml" 8 161 178 "oTest\\oc.ml" 8 161 182
+type(
+  'a list
+)
+ident(
+  int_ref list "oTest\\oc.ml" 7 138 152 "oTest\\oc.ml" 7 138 158
+)
+"oTest\\oc.ml" 8 161 169 "oTest\\oc.ml" 8 161 182
+call(
+  stack
+)
+type(
+  'a list
+)
+"oTest\\oc.ml" 8 161 162 "oTest\\oc.ml" 8 161 182
+type(
+  bool
+)
+"oTest\\oc.ml" 11 192 196 "oTest\\oc.ml" 11 192 201
+type(
+  float -> float
+)
+ident(
+  def root3 "oTest\\oc.ml" 18 409 409 "oTest\\oc.ml" 1 0 -1
+)
+"oTest\\oc.ml" 11 192 202 "oTest\\oc.ml" 11 192 203
+type(
+  float
+)
+ident(
+  def a "oTest\\oc.ml" 12 207 209 "oTest\\oc.ml" 15 353 401
+)
+"oTest\\oc.ml" 12 207 217 "oTest\\oc.ml" 12 207 228
+type(
+  float -> float
+)
+ident(
+  def root3Helper "oTest\\oc.ml" 12 207 209 "oTest\\oc.ml" 15 353 401
+)
+"oTest\\oc.ml" 12 207 229 "oTest\\oc.ml" 12 207 230
+type(
+  float
+)
+ident(
+  def x "oTest\\oc.ml" 13 235 239 "oTest\\oc.ml" 14 299 351
+)
+"oTest\\oc.ml" 13 235 242 "oTest\\oc.ml" 13 235 251
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.abs_float
+)
+"oTest\\oc.ml" 13 235 252 "oTest\\oc.ml" 13 235 253
+type(
+  float
+)
+ident(
+  int_ref x "oTest\\oc.ml" 12 207 229 "oTest\\oc.ml" 12 207 230
+)
+"oTest\\oc.ml" 13 235 254 "oTest\\oc.ml" 13 235 256
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( ** )
+)
+"oTest\\oc.ml" 13 235 257 "oTest\\oc.ml" 13 235 259
+type(
+  float
+)
+"oTest\\oc.ml" 13 235 252 "oTest\\oc.ml" 13 235 259
+type(
+  float
+)
+"oTest\\oc.ml" 13 235 260 "oTest\\oc.ml" 13 235 262
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"oTest\\oc.ml" 13 235 263 "oTest\\oc.ml" 13 235 264
+type(
+  float
+)
+ident(
+  int_ref a "oTest\\oc.ml" 11 192 202 "oTest\\oc.ml" 11 192 203
+)
+"oTest\\oc.ml" 13 235 251 "oTest\\oc.ml" 13 235 265
+type(
+  float
+)
+"oTest\\oc.ml" 13 235 242 "oTest\\oc.ml" 13 235 265
+type(
+  float
+)
+"oTest\\oc.ml" 13 235 266 "oTest\\oc.ml" 13 235 268
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"oTest\\oc.ml" 13 235 269 "oTest\\oc.ml" 13 235 274
+type(
+  float
+)
+"oTest\\oc.ml" 13 235 275 "oTest\\oc.ml" 13 235 277
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"oTest\\oc.ml" 13 235 278 "oTest\\oc.ml" 13 235 287
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.abs_float
+)
+"oTest\\oc.ml" 13 235 287 "oTest\\oc.ml" 13 235 290
+type(
+  float
+)
+ident(
+  int_ref a "oTest\\oc.ml" 11 192 202 "oTest\\oc.ml" 11 192 203
+)
+"oTest\\oc.ml" 13 235 278 "oTest\\oc.ml" 13 235 290
+type(
+  float
+)
+"oTest\\oc.ml" 13 235 269 "oTest\\oc.ml" 13 235 290
+type(
+  float
+)
+"oTest\\oc.ml" 13 235 242 "oTest\\oc.ml" 13 235 290
+type(
+  bool
+)
+"oTest\\oc.ml" 13 235 296 "oTest\\oc.ml" 13 235 297
+type(
+  float
+)
+ident(
+  int_ref x "oTest\\oc.ml" 12 207 229 "oTest\\oc.ml" 12 207 230
+)
+"oTest\\oc.ml" 14 299 308 "oTest\\oc.ml" 14 299 319
+type(
+  float -> float
+)
+ident(
+  int_ref root3Helper "oTest\\oc.ml" 12 207 217 "oTest\\oc.ml" 12 207 228
+)
+"oTest\\oc.ml" 14 299 320 "oTest\\oc.ml" 14 299 321
+type(
+  float
+)
+ident(
+  int_ref x "oTest\\oc.ml" 12 207 229 "oTest\\oc.ml" 12 207 230
+)
+"oTest\\oc.ml" 14 299 322 "oTest\\oc.ml" 14 299 324
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"oTest\\oc.ml" 14 299 326 "oTest\\oc.ml" 14 299 327
+type(
+  float
+)
+ident(
+  int_ref a "oTest\\oc.ml" 11 192 202 "oTest\\oc.ml" 11 192 203
+)
+"oTest\\oc.ml" 14 299 328 "oTest\\oc.ml" 14 299 330
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"oTest\\oc.ml" 14 299 331 "oTest\\oc.ml" 14 299 332
+type(
+  float
+)
+ident(
+  int_ref x "oTest\\oc.ml" 12 207 229 "oTest\\oc.ml" 12 207 230
+)
+"oTest\\oc.ml" 14 299 333 "oTest\\oc.ml" 14 299 335
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( ** )
+)
+"oTest\\oc.ml" 14 299 336 "oTest\\oc.ml" 14 299 338
+type(
+  float
+)
+"oTest\\oc.ml" 14 299 331 "oTest\\oc.ml" 14 299 338
+type(
+  float
+)
+"oTest\\oc.ml" 14 299 326 "oTest\\oc.ml" 14 299 338
+type(
+  float
+)
+"oTest\\oc.ml" 14 299 339 "oTest\\oc.ml" 14 299 341
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"oTest\\oc.ml" 14 299 342 "oTest\\oc.ml" 14 299 343
+type(
+  float
+)
+ident(
+  int_ref x "oTest\\oc.ml" 12 207 229 "oTest\\oc.ml" 12 207 230
+)
+"oTest\\oc.ml" 14 299 325 "oTest\\oc.ml" 14 299 344
+type(
+  float
+)
+"oTest\\oc.ml" 14 299 345 "oTest\\oc.ml" 14 299 347
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"oTest\\oc.ml" 14 299 348 "oTest\\oc.ml" 14 299 350
+type(
+  float
+)
+"oTest\\oc.ml" 14 299 325 "oTest\\oc.ml" 14 299 350
+type(
+  float
+)
+"oTest\\oc.ml" 14 299 319 "oTest\\oc.ml" 14 299 351
+type(
+  float
+)
+"oTest\\oc.ml" 14 299 308 "oTest\\oc.ml" 14 299 351
+call(
+  tail
+)
+type(
+  float
+)
+"oTest\\oc.ml" 13 235 239 "oTest\\oc.ml" 14 299 351
+type(
+  float
+)
+"oTest\\oc.ml" 15 353 358 "oTest\\oc.ml" 15 353 369
+type(
+  float -> float
+)
+ident(
+  int_ref root3Helper "oTest\\oc.ml" 12 207 217 "oTest\\oc.ml" 12 207 228
+)
+"oTest\\oc.ml" 15 353 373 "oTest\\oc.ml" 15 353 374
+type(
+  float
+)
+ident(
+  int_ref a "oTest\\oc.ml" 11 192 202 "oTest\\oc.ml" 11 192 203
+)
+"oTest\\oc.ml" 15 353 375 "oTest\\oc.ml" 15 353 377
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"oTest\\oc.ml" 15 353 378 "oTest\\oc.ml" 15 353 380
+type(
+  float
+)
+"oTest\\oc.ml" 15 353 373 "oTest\\oc.ml" 15 353 380
+type(
+  bool
+)
+"oTest\\oc.ml" 15 353 386 "oTest\\oc.ml" 15 353 387
+type(
+  float
+)
+ident(
+  int_ref a "oTest\\oc.ml" 11 192 202 "oTest\\oc.ml" 11 192 203
+)
+"oTest\\oc.ml" 15 353 393 "oTest\\oc.ml" 15 353 394
+type(
+  float
+)
+ident(
+  int_ref a "oTest\\oc.ml" 11 192 202 "oTest\\oc.ml" 11 192 203
+)
+"oTest\\oc.ml" 15 353 395 "oTest\\oc.ml" 15 353 397
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"oTest\\oc.ml" 15 353 398 "oTest\\oc.ml" 15 353 400
+type(
+  float
+)
+"oTest\\oc.ml" 15 353 393 "oTest\\oc.ml" 15 353 400
+type(
+  float
+)
+"oTest\\oc.ml" 15 353 369 "oTest\\oc.ml" 15 353 401
+type(
+  float
+)
+"oTest\\oc.ml" 15 353 358 "oTest\\oc.ml" 15 353 401
+call(
+  tail
+)
+type(
+  float
+)
+"oTest\\oc.ml" 12 207 209 "oTest\\oc.ml" 15 353 401
+type(
+  float
+)
+"oTest\\oc.ml" 18 409 409 "oTest\\oc.ml" 18 409 414
+type(
+  float -> float
+)
+ident(
+  int_ref root3 "oTest\\oc.ml" 11 192 196 "oTest\\oc.ml" 11 192 201
+)
+"oTest\\oc.ml" 18 409 415 "oTest\\oc.ml" 18 409 417
+type(
+  float
+)
+"oTest\\oc.ml" 18 409 409 "oTest\\oc.ml" 18 409 417
+call(
+  stack
+)
+type(
+  float
+)
+"oTest\\oc.ml" 22 425 433 "oTest\\oc.ml" 22 425 443
+type(
+  'a list * int * 'a -> 'a list
+)
+ident(
+  def replaceNth "oTest\\oc.ml" 22 425 425 "oTest\\oc.ml" 1 0 -1
+)
+"oTest\\oc.ml" 22 425 444 "oTest\\oc.ml" 22 425 448
+type(
+  'a list
+)
+ident(
+  def list "oTest\\oc.ml" 23 470 470 "oTest\\oc.ml" 26 545 600
+)
+"oTest\\oc.ml" 22 425 450 "oTest\\oc.ml" 22 425 455
+type(
+  int
+)
+ident(
+  def index "oTest\\oc.ml" 23 470 470 "oTest\\oc.ml" 26 545 600
+)
+"oTest\\oc.ml" 22 425 457 "oTest\\oc.ml" 22 425 464
+type(
+  'a
+)
+ident(
+  def element "oTest\\oc.ml" 23 470 470 "oTest\\oc.ml" 26 545 600
+)
+"oTest\\oc.ml" 22 425 443 "oTest\\oc.ml" 22 425 465
+type(
+  'a list * int * 'a
+)
+"oTest\\oc.ml" 23 470 477 "oTest\\oc.ml" 23 470 481
+type(
+  'a list
+)
+ident(
+  int_ref list "oTest\\oc.ml" 22 425 444 "oTest\\oc.ml" 22 425 448
+)
+"oTest\\oc.ml" 23 470 483 "oTest\\oc.ml" 23 470 488
+type(
+  int
+)
+ident(
+  int_ref index "oTest\\oc.ml" 22 425 450 "oTest\\oc.ml" 22 425 455
+)
+"oTest\\oc.ml" 23 470 476 "oTest\\oc.ml" 23 470 489
+type(
+  'a list * int
+)
+"oTest\\oc.ml" 24 496 497 "oTest\\oc.ml" 24 496 499
+type(
+  'a list
+)
+"oTest\\oc.ml" 24 496 501 "oTest\\oc.ml" 24 496 502
+type(
+  int
+)
+"oTest\\oc.ml" 24 496 496 "oTest\\oc.ml" 24 496 503
+type(
+  'a list * int
+)
+"oTest\\oc.ml" 24 496 507 "oTest\\oc.ml" 24 496 509
+type(
+  'a list
+)
+"oTest\\oc.ml" 25 512 517 "oTest\\oc.ml" 25 512 518
+type(
+  'a
+)
+ident(
+  def h "oTest\\oc.ml" 25 512 531 "oTest\\oc.ml" 25 512 543
+)
+"oTest\\oc.ml" 25 512 522 "oTest\\oc.ml" 25 512 523
+type(
+  'a list
+)
+ident(
+  def t "oTest\\oc.ml" 25 512 531 "oTest\\oc.ml" 25 512 543
+)
+"oTest\\oc.ml" 25 512 517 "oTest\\oc.ml" 25 512 523
+type(
+  'a list
+)
+"oTest\\oc.ml" 25 512 525 "oTest\\oc.ml" 25 512 526
+type(
+  int
+)
+"oTest\\oc.ml" 25 512 516 "oTest\\oc.ml" 25 512 527
+type(
+  'a list * int
+)
+"oTest\\oc.ml" 25 512 531 "oTest\\oc.ml" 25 512 538
+type(
+  'a
+)
+ident(
+  int_ref element "oTest\\oc.ml" 22 425 457 "oTest\\oc.ml" 22 425 464
+)
+"oTest\\oc.ml" 25 512 542 "oTest\\oc.ml" 25 512 543
+type(
+  'a list
+)
+ident(
+  int_ref t "oTest\\oc.ml" 25 512 522 "oTest\\oc.ml" 25 512 523
+)
+"oTest\\oc.ml" 25 512 531 "oTest\\oc.ml" 25 512 543
+type(
+  'a list
+)
+"oTest\\oc.ml" 26 545 550 "oTest\\oc.ml" 26 545 551
+type(
+  'a
+)
+ident(
+  def h "oTest\\oc.ml" 26 545 564 "oTest\\oc.ml" 26 545 600
+)
+"oTest\\oc.ml" 26 545 555 "oTest\\oc.ml" 26 545 556
+type(
+  'a list
+)
+ident(
+  def t "oTest\\oc.ml" 26 545 564 "oTest\\oc.ml" 26 545 600
+)
+"oTest\\oc.ml" 26 545 550 "oTest\\oc.ml" 26 545 556
+type(
+  'a list
+)
+"oTest\\oc.ml" 26 545 558 "oTest\\oc.ml" 26 545 559
+type(
+  int
+)
+"oTest\\oc.ml" 26 545 549 "oTest\\oc.ml" 26 545 560
+type(
+  'a list * int
+)
+"oTest\\oc.ml" 26 545 564 "oTest\\oc.ml" 26 545 565
+type(
+  'a
+)
+ident(
+  int_ref h "oTest\\oc.ml" 26 545 550 "oTest\\oc.ml" 26 545 551
+)
+"oTest\\oc.ml" 26 545 569 "oTest\\oc.ml" 26 545 579
+type(
+  'a list * int * 'a -> 'a list
+)
+ident(
+  int_ref replaceNth "oTest\\oc.ml" 22 425 433 "oTest\\oc.ml" 22 425 443
+)
+"oTest\\oc.ml" 26 545 580 "oTest\\oc.ml" 26 545 581
+type(
+  'a list
+)
+ident(
+  int_ref t "oTest\\oc.ml" 26 545 555 "oTest\\oc.ml" 26 545 556
+)
+"oTest\\oc.ml" 26 545 583 "oTest\\oc.ml" 26 545 588
+type(
+  int
+)
+ident(
+  int_ref index "oTest\\oc.ml" 22 425 450 "oTest\\oc.ml" 22 425 455
+)
+"oTest\\oc.ml" 26 545 588 "oTest\\oc.ml" 26 545 589
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"oTest\\oc.ml" 26 545 589 "oTest\\oc.ml" 26 545 590
+type(
+  int
+)
+"oTest\\oc.ml" 26 545 583 "oTest\\oc.ml" 26 545 590
+type(
+  int
+)
+"oTest\\oc.ml" 26 545 592 "oTest\\oc.ml" 26 545 599
+type(
+  'a
+)
+ident(
+  int_ref element "oTest\\oc.ml" 22 425 457 "oTest\\oc.ml" 22 425 464
+)
+"oTest\\oc.ml" 26 545 579 "oTest\\oc.ml" 26 545 600
+type(
+  'a list * int * 'a
+)
+"oTest\\oc.ml" 26 545 569 "oTest\\oc.ml" 26 545 600
+call(
+  stack
+)
+type(
+  'a list
+)
+"oTest\\oc.ml" 26 545 564 "oTest\\oc.ml" 26 545 600
+type(
+  'a list
+)
+"oTest\\oc.ml" 23 470 470 "oTest\\oc.ml" 26 545 600
+type(
+  'a list
+)
+"oTest\\oc.ml" 28 606 606 "oTest\\oc.ml" 28 606 616
+type(
+  char list * int * char -> char list
+)
+ident(
+  int_ref replaceNth "oTest\\oc.ml" 22 425 433 "oTest\\oc.ml" 22 425 443
+)
+"oTest\\oc.ml" 28 606 618 "oTest\\oc.ml" 28 606 621
+type(
+  char
+)
+"oTest\\oc.ml" 28 606 622 "oTest\\oc.ml" 28 606 625
+type(
+  char
+)
+"oTest\\oc.ml" 28 606 626 "oTest\\oc.ml" 28 606 629
+type(
+  char
+)
+"oTest\\oc.ml" 28 606 617 "oTest\\oc.ml" 28 606 630
+type(
+  char list
+)
+"oTest\\oc.ml" 28 606 631 "oTest\\oc.ml" 28 606 632
+type(
+  int
+)
+"oTest\\oc.ml" 28 606 633 "oTest\\oc.ml" 28 606 636
+type(
+  char
+)
+"oTest\\oc.ml" 28 606 616 "oTest\\oc.ml" 28 606 637
+type(
+  char list * int * char
+)
+"oTest\\oc.ml" 28 606 606 "oTest\\oc.ml" 28 606 637
+call(
+  stack
+)
+type(
+  char list
+)

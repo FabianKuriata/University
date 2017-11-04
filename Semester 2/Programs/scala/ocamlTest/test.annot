@@ -1,0 +1,19 @@
+"ocamlTest\\test.ml" 1 0 0 "ocamlTest\\test.ml" 1 0 1
+type(
+  int
+)
+"ocamlTest\\test.ml" 1 0 1 "ocamlTest\\test.ml" 1 0 2
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"ocamlTest\\test.ml" 1 0 2 "ocamlTest\\test.ml" 1 0 3
+type(
+  int
+)
+"ocamlTest\\test.ml" 1 0 0 "ocamlTest\\test.ml" 1 0 3
+type(
+  int
+)
