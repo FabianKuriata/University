@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Firma_TreeSet()
+comment1.params=n\ e\ s\ godz
+comment1.target=void\ zatrudnijRob(java.lang.String,\ double,\ double,\ double)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=n\ e\ placa\ premia
+comment2.target=void\ zatrudnijUrz(java.lang.String,\ double,\ double,\ double)
+comment3.params=nazwiskoP
+comment3.target=void\ zwolnij(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ ilu()
+comment5.params=
+comment5.target=double\ wypRob()
+comment6.params=
+comment6.target=double\ wypUrz()
+comment7.params=nazwiskoP
+comment7.target=double\ wyplata(java.lang.String)
+comment8.params=
+comment8.target=void\ wydrukPlac()
+comment9.params=
+comment9.target=void\ wyswietl()
+numComments=11

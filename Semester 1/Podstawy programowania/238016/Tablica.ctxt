@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=rozmiar\ zakres
+comment0.target=Tablica(int,\ int)
+comment1.params=
+comment1.target=void\ wyswietl()
+comment2.params=
+comment2.target=int\ policzSume()
+comment3.params=
+comment3.target=boolean\ czyRozno()
+comment4.params=wartosc
+comment4.target=int\ usunElement(int)
+comment5.params=
+comment5.target=void\ bezPowtorzen()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

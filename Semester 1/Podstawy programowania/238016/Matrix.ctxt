@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=rows\ columns\ range
+comment0.target=Matrix(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ display()
+comment2.params=
+comment2.target=void\ write()
+comment3.params=
+comment3.target=void\ read()
+comment4.params=array
+comment4.target=double\ countAverage(double[][])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

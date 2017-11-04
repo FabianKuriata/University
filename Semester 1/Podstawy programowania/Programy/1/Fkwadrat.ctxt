@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=x\ y\ z
+comment0.target=Fkwadrat(double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fkwadrat\r\n
+comment1.params=
+comment1.target=java.lang.String\ SprawdzJaka()
+comment2.params=
+comment2.target=double\ ObliczDelte()
+comment3.params=
+comment3.target=double\ ObliczFunkcje()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

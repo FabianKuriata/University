@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=wierszy\ kolumn\ zakres
+comment0.target=Tablica2(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ wyswietl()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=wiersz
+comment2.target=void\ wyswietlWiersz(int)
+comment3.params=kolumna
+comment3.target=void\ wyswietlKolumne(int)
+comment4.params=
+comment4.target=int\ sumaElementow()
+comment5.params=
+comment5.target=int[]\ minimum()
+comment6.params=wartosc
+comment6.target=int[]\ czyWystepuje(int)
+comment7.params=
+comment7.target=int\ minKol()
+comment8.params=
+comment8.target=int\ maxWie()
+comment9.params=
+comment9.target=void\ usunWiK()
+numComments=11

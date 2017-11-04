@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nazwa\ pieter\ liczbaPokoi
+comment0.target=Hotel(java.lang.String,\ int,\ int[])
+comment1.params=
+comment1.target=void\ wyswietl()
+comment2.params=
+comment2.target=void\ main()
+numComments=3

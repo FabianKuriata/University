@@ -1,0 +1,12 @@
+﻿'Lista 1 Alokowanie dealokowanie pamieci.exe' (Win32): Loaded 'D:\Studia\Studia\Semestr 3\ZMPO\Laby\Lista 1 Alokowanie dealokowanie pamieci\Debug\Lista 1 Alokowanie dealokowanie pamieci.exe'. Symbols loaded.
+'Lista 1 Alokowanie dealokowanie pamieci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Symbols loaded.
+'Lista 1 Alokowanie dealokowanie pamieci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'Lista 1 Alokowanie dealokowanie pamieci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Symbols loaded.
+'Lista 1 Alokowanie dealokowanie pamieci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Symbols loaded.
+'Lista 1 Alokowanie dealokowanie pamieci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Symbols loaded.
+'Lista 1 Alokowanie dealokowanie pamieci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Symbols loaded.
+The thread 0x2bb8 has exited with code -1073741510 (0xc000013a).
+The thread 0x2dac has exited with code -1073741510 (0xc000013a).
+The thread 0x28a8 has exited with code -1073741510 (0xc000013a).
+The thread 0x281c has exited with code -1073741749 (0xc000004b).
+The program '[6228] Lista 1 Alokowanie dealokowanie pamieci.exe' has exited with code -1073741510 (0xc000013a).
