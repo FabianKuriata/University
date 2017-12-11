@@ -1,0 +1,6 @@
+let delete(list, number) =
+	let del(list, number, listAcc, counter) =
+		match (list, counter) with
+		| ([], _) -> []
+		| (h::t, _) -> del(t, number, []::t, counter-1)
+	in del(list, number, [], number)

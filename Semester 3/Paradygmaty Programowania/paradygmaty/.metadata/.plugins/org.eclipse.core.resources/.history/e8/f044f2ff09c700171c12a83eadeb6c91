@@ -1,0 +1,10 @@
+let delete(list, number) =
+	let rec del(list, num) =
+		match num with
+		| 0 -> []
+		| a -> del(num - 1, (List.rev (List.tl list)))
+	in del(list, number*2)
+	
+	
+	
+	

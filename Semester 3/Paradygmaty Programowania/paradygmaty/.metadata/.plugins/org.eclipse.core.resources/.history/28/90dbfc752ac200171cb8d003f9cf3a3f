@@ -1,0 +1,16 @@
+let divideList (list, elements) = 
+	let rec divideListHelper (list, elements, counter) =
+		if counter > List.length list then []
+		else if(counter mod elements <> 0) then List.hd :: divideListHelper(List.tl list, elements, counter+1)
+		else []
+	in divideListHelper(list, elements, 1)
+	
+	
+	divideList([2;3;2;4;5],3)
+	
+	
+	let rec divideList (list, number) = 
+		if list = [] || number < 0 then []
+		else if number > List.length list then List.tl list::List.tl list
+		else []
+		
