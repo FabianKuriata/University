@@ -1,0 +1,20 @@
+	
+let euler2 ep = 
+	let rec eulerHelper2(sum1, sum2, ep, n) =
+		if abs_float((sum1 -. log(n -. 1.)) -. (sum2 -. log(n))) < ep then (sum2 -. log(n))
+		else eulerHelper2(sum2, sum2 +. (1. /. (n +. 1.)) , ep, n +. 1.)
+	in eulerHelper2(1. , 1.5, ep, 2.)
+
+euler2 	
+	
+let delete(list, number) =
+	let del(list, number, listAcc, counter) =
+		match (list, counter) with
+		| ([], _) -> []
+		| (h::t, _) -> del(t, number, []::t, counter-1)
+	in del(list, number, [], number)
+	
+	
+	
+let delete(list, number) =
+	let del(list, number, listAcc, 

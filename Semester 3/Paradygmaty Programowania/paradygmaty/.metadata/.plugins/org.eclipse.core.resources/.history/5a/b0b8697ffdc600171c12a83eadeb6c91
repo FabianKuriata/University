@@ -1,0 +1,25 @@
+let euler ep = 
+	let rec eulerHelper(result1, result2, ep, sum, n) =
+		if n < 2. then eulerHelper(result1 +. (1. /. n), result1 , ep, result2, n +. 1.)
+		else if abs_float((result1 -. log(n)) -. (result2 -. log(n -. 1.))) < ep then sum
+		else eulerHelper(result1 +. (1. /. n), result1 , ep, result2 -. log(n -. 1.), n +. 1.)
+	in eulerHelper(1. , 0., ep, 0., 1.)
+	
+	
+	
+	euler 0.0005
+	
+
+	
+	
+let delete(list, number) =
+	let del(list, number, listAcc, counter) =
+		match (list, counter) with
+		| ([], _) -> []
+		| (h::t, _) -> del(t, number, []::t, counter-1)
+	in del(list, number, [], number)
+	
+	
+	
+let delete(list, number) =
+	let del(list, number, listAcc, 

@@ -1,0 +1,422 @@
+"Lista2\\zad3_2.ml" 2 2 7 "Lista2\\zad3_2.ml" 2 2 17
+type(
+  '_a list * int -> '_b
+)
+ident(
+  def divideList "Lista2\\zad3_2.ml" 15 528 558 "Lista2\\zad3_2.ml" 1 0 -1
+)
+"Lista2\\zad3_2.ml" 2 2 19 "Lista2\\zad3_2.ml" 2 2 23
+type(
+  '_a list
+)
+ident(
+  def list "Lista2\\zad3_2.ml" 3 36 37 "Lista2\\zad3_2.ml" 15 528 558
+)
+"Lista2\\zad3_2.ml" 2 2 25 "Lista2\\zad3_2.ml" 2 2 31
+type(
+  int
+)
+ident(
+  def number "Lista2\\zad3_2.ml" 3 36 37 "Lista2\\zad3_2.ml" 15 528 558
+)
+"Lista2\\zad3_2.ml" 2 2 18 "Lista2\\zad3_2.ml" 2 2 32
+type(
+  '_a list * int
+)
+"Lista2\\zad3_2.ml" 3 36 40 "Lista2\\zad3_2.ml" 3 36 46
+type(
+  int
+)
+ident(
+  int_ref number "Lista2\\zad3_2.ml" 2 2 25 "Lista2\\zad3_2.ml" 2 2 31
+)
+"Lista2\\zad3_2.ml" 3 36 47 "Lista2\\zad3_2.ml" 3 36 48
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"Lista2\\zad3_2.ml" 3 36 49 "Lista2\\zad3_2.ml" 3 36 60
+type(
+  '_a list -> int
+)
+ident(
+  ext_ref List.length
+)
+"Lista2\\zad3_2.ml" 3 36 61 "Lista2\\zad3_2.ml" 3 36 65
+type(
+  '_a list
+)
+ident(
+  int_ref list "Lista2\\zad3_2.ml" 2 2 19 "Lista2\\zad3_2.ml" 2 2 23
+)
+"Lista2\\zad3_2.ml" 3 36 49 "Lista2\\zad3_2.ml" 3 36 65
+type(
+  int
+)
+"Lista2\\zad3_2.ml" 3 36 40 "Lista2\\zad3_2.ml" 3 36 65
+type(
+  bool
+)
+"Lista2\\zad3_2.ml" 3 36 71 "Lista2\\zad3_2.ml" 3 36 76
+type(
+  exn -> '_b
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Lista2\\zad3_2.ml" 3 36 85 "Lista2\\zad3_2.ml" 3 36 106
+type(
+  string
+)
+"Lista2\\zad3_2.ml" 3 36 76 "Lista2\\zad3_2.ml" 3 36 107
+type(
+  exn
+)
+"Lista2\\zad3_2.ml" 3 36 71 "Lista2\\zad3_2.ml" 3 36 107
+type(
+  '_b
+)
+"Lista2\\zad3_2.ml" 4 109 118 "Lista2\\zad3_2.ml" 4 109 124
+type(
+  int
+)
+ident(
+  int_ref number "Lista2\\zad3_2.ml" 2 2 25 "Lista2\\zad3_2.ml" 2 2 31
+)
+"Lista2\\zad3_2.ml" 4 109 125 "Lista2\\zad3_2.ml" 4 109 126
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lista2\\zad3_2.ml" 4 109 127 "Lista2\\zad3_2.ml" 4 109 128
+type(
+  int
+)
+"Lista2\\zad3_2.ml" 4 109 118 "Lista2\\zad3_2.ml" 4 109 128
+type(
+  bool
+)
+"Lista2\\zad3_2.ml" 4 109 134 "Lista2\\zad3_2.ml" 4 109 139
+type(
+  exn -> '_b
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Lista2\\zad3_2.ml" 4 109 148 "Lista2\\zad3_2.ml" 4 109 162
+type(
+  string
+)
+"Lista2\\zad3_2.ml" 4 109 139 "Lista2\\zad3_2.ml" 4 109 163
+type(
+  exn
+)
+"Lista2\\zad3_2.ml" 4 109 134 "Lista2\\zad3_2.ml" 4 109 163
+type(
+  '_b
+)
+"Lista2\\zad3_2.ml" 6 172 182 "Lista2\\zad3_2.ml" 6 172 188
+type(
+  'c list * int * 'c list * 'c list list * int -> 'c list list
+)
+ident(
+  def divide "Lista2\\zad3_2.ml" 6 172 174 "Lista2\\zad3_2.ml" 15 528 558
+)
+"Lista2\\zad3_2.ml" 6 172 190 "Lista2\\zad3_2.ml" 6 172 194
+type(
+  'c list
+)
+ident(
+  def list "Lista2\\zad3_2.ml" 8 245 248 "Lista2\\zad3_2.ml" 12 452 481
+)
+"Lista2\\zad3_2.ml" 6 172 196 "Lista2\\zad3_2.ml" 6 172 202
+type(
+  int
+)
+ident(
+  def number "Lista2\\zad3_2.ml" 8 245 248 "Lista2\\zad3_2.ml" 12 452 481
+)
+"Lista2\\zad3_2.ml" 6 172 204 "Lista2\\zad3_2.ml" 6 172 211
+type(
+  'c list
+)
+ident(
+  def listAcc "Lista2\\zad3_2.ml" 8 245 248 "Lista2\\zad3_2.ml" 12 452 481
+)
+"Lista2\\zad3_2.ml" 6 172 213 "Lista2\\zad3_2.ml" 6 172 226
+type(
+  'c list list
+)
+ident(
+  def listOfListAcc "Lista2\\zad3_2.ml" 8 245 248 "Lista2\\zad3_2.ml" 12 452 481
+)
+"Lista2\\zad3_2.ml" 6 172 228 "Lista2\\zad3_2.ml" 6 172 235
+type(
+  int
+)
+ident(
+  def counter "Lista2\\zad3_2.ml" 8 245 248 "Lista2\\zad3_2.ml" 12 452 481
+)
+"Lista2\\zad3_2.ml" 6 172 189 "Lista2\\zad3_2.ml" 6 172 236
+type(
+  'c list * int * 'c list * 'c list list * int
+)
+"Lista2\\zad3_2.ml" 8 245 251 "Lista2\\zad3_2.ml" 8 245 255
+type(
+  'c list
+)
+ident(
+  int_ref list "Lista2\\zad3_2.ml" 6 172 190 "Lista2\\zad3_2.ml" 6 172 194
+)
+"Lista2\\zad3_2.ml" 8 245 256 "Lista2\\zad3_2.ml" 8 245 258
+type(
+  'c list -> 'c list -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"Lista2\\zad3_2.ml" 8 245 259 "Lista2\\zad3_2.ml" 8 245 261
+type(
+  'c list
+)
+"Lista2\\zad3_2.ml" 8 245 251 "Lista2\\zad3_2.ml" 8 245 261
+type(
+  bool
+)
+"Lista2\\zad3_2.ml" 9 268 276 "Lista2\\zad3_2.ml" 9 268 283
+type(
+  int
+)
+ident(
+  int_ref counter "Lista2\\zad3_2.ml" 6 172 228 "Lista2\\zad3_2.ml" 6 172 235
+)
+"Lista2\\zad3_2.ml" 9 268 284 "Lista2\\zad3_2.ml" 9 268 285
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lista2\\zad3_2.ml" 9 268 286 "Lista2\\zad3_2.ml" 9 268 292
+type(
+  int
+)
+ident(
+  int_ref number "Lista2\\zad3_2.ml" 6 172 196 "Lista2\\zad3_2.ml" 6 172 202
+)
+"Lista2\\zad3_2.ml" 9 268 276 "Lista2\\zad3_2.ml" 9 268 292
+type(
+  bool
+)
+"Lista2\\zad3_2.ml" 9 268 298 "Lista2\\zad3_2.ml" 9 268 304
+type(
+  'c list * int * 'c list * 'c list list * int -> 'c list list
+)
+ident(
+  int_ref divide "Lista2\\zad3_2.ml" 6 172 182 "Lista2\\zad3_2.ml" 6 172 188
+)
+"Lista2\\zad3_2.ml" 9 268 305 "Lista2\\zad3_2.ml" 9 268 312
+type(
+  'c list -> 'c list
+)
+ident(
+  ext_ref List.tl
+)
+"Lista2\\zad3_2.ml" 9 268 313 "Lista2\\zad3_2.ml" 9 268 317
+type(
+  'c list
+)
+ident(
+  int_ref list "Lista2\\zad3_2.ml" 6 172 190 "Lista2\\zad3_2.ml" 6 172 194
+)
+"Lista2\\zad3_2.ml" 9 268 305 "Lista2\\zad3_2.ml" 9 268 317
+type(
+  'c list
+)
+"Lista2\\zad3_2.ml" 9 268 319 "Lista2\\zad3_2.ml" 9 268 325
+type(
+  int
+)
+ident(
+  int_ref number "Lista2\\zad3_2.ml" 6 172 196 "Lista2\\zad3_2.ml" 6 172 202
+)
+"Lista2\\zad3_2.ml" 9 268 327 "Lista2\\zad3_2.ml" 9 268 334
+type(
+  'c list -> 'c
+)
+ident(
+  ext_ref List.hd
+)
+"Lista2\\zad3_2.ml" 9 268 335 "Lista2\\zad3_2.ml" 9 268 339
+type(
+  'c list
+)
+ident(
+  int_ref list "Lista2\\zad3_2.ml" 6 172 190 "Lista2\\zad3_2.ml" 6 172 194
+)
+"Lista2\\zad3_2.ml" 9 268 327 "Lista2\\zad3_2.ml" 9 268 339
+type(
+  'c
+)
+"Lista2\\zad3_2.ml" 9 268 341 "Lista2\\zad3_2.ml" 9 268 348
+type(
+  'c list
+)
+ident(
+  int_ref listAcc "Lista2\\zad3_2.ml" 6 172 204 "Lista2\\zad3_2.ml" 6 172 211
+)
+"Lista2\\zad3_2.ml" 9 268 327 "Lista2\\zad3_2.ml" 9 268 348
+type(
+  'c list
+)
+"Lista2\\zad3_2.ml" 9 268 350 "Lista2\\zad3_2.ml" 9 268 363
+type(
+  'c list list
+)
+ident(
+  int_ref listOfListAcc "Lista2\\zad3_2.ml" 6 172 213 "Lista2\\zad3_2.ml" 6 172 226
+)
+"Lista2\\zad3_2.ml" 9 268 365 "Lista2\\zad3_2.ml" 9 268 372
+type(
+  int
+)
+ident(
+  int_ref counter "Lista2\\zad3_2.ml" 6 172 228 "Lista2\\zad3_2.ml" 6 172 235
+)
+"Lista2\\zad3_2.ml" 9 268 372 "Lista2\\zad3_2.ml" 9 268 373
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lista2\\zad3_2.ml" 9 268 373 "Lista2\\zad3_2.ml" 9 268 374
+type(
+  int
+)
+"Lista2\\zad3_2.ml" 9 268 365 "Lista2\\zad3_2.ml" 9 268 374
+type(
+  int
+)
+"Lista2\\zad3_2.ml" 9 268 304 "Lista2\\zad3_2.ml" 9 268 375
+type(
+  'c list * int * 'c list * 'c list list * int
+)
+"Lista2\\zad3_2.ml" 9 268 298 "Lista2\\zad3_2.ml" 9 268 375
+type(
+  'c list list
+)
+"Lista2\\zad3_2.ml" 10 377 387 "Lista2\\zad3_2.ml" 10 377 393
+type(
+  'c list * int * 'c list * 'c list list * int -> 'c list list
+)
+ident(
+  int_ref divide "Lista2\\zad3_2.ml" 6 172 182 "Lista2\\zad3_2.ml" 6 172 188
+)
+"Lista2\\zad3_2.ml" 10 377 394 "Lista2\\zad3_2.ml" 10 377 398
+type(
+  'c list
+)
+ident(
+  int_ref list "Lista2\\zad3_2.ml" 6 172 190 "Lista2\\zad3_2.ml" 6 172 194
+)
+"Lista2\\zad3_2.ml" 10 377 400 "Lista2\\zad3_2.ml" 10 377 406
+type(
+  int
+)
+ident(
+  int_ref number "Lista2\\zad3_2.ml" 6 172 196 "Lista2\\zad3_2.ml" 6 172 202
+)
+"Lista2\\zad3_2.ml" 10 377 408 "Lista2\\zad3_2.ml" 10 377 410
+type(
+  'c list
+)
+"Lista2\\zad3_2.ml" 10 377 412 "Lista2\\zad3_2.ml" 10 377 425
+type(
+  'c list list
+)
+ident(
+  int_ref listOfListAcc "Lista2\\zad3_2.ml" 6 172 213 "Lista2\\zad3_2.ml" 6 172 226
+)
+"Lista2\\zad3_2.ml" 10 377 426 "Lista2\\zad3_2.ml" 10 377 427
+type(
+  'c list list -> 'c list list -> 'c list list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lista2\\zad3_2.ml" 10 377 429 "Lista2\\zad3_2.ml" 10 377 436
+type(
+  'c list
+)
+ident(
+  int_ref listAcc "Lista2\\zad3_2.ml" 6 172 204 "Lista2\\zad3_2.ml" 6 172 211
+)
+"Lista2\\zad3_2.ml" 10 377 428 "Lista2\\zad3_2.ml" 10 377 437
+type(
+  'c list list
+)
+"Lista2\\zad3_2.ml" 10 377 412 "Lista2\\zad3_2.ml" 10 377 437
+type(
+  'c list list
+)
+"Lista2\\zad3_2.ml" 10 377 439 "Lista2\\zad3_2.ml" 10 377 440
+type(
+  int
+)
+"Lista2\\zad3_2.ml" 10 377 393 "Lista2\\zad3_2.ml" 10 377 441
+type(
+  'c list * int * 'c list * 'c list list * int
+)
+"Lista2\\zad3_2.ml" 10 377 387 "Lista2\\zad3_2.ml" 10 377 441
+type(
+  'c list list
+)
+"Lista2\\zad3_2.ml" 9 268 273 "Lista2\\zad3_2.ml" 10 377 441
+type(
+  'c list list
+)
+"Lista2\\zad3_2.ml" 12 452 456 "Lista2\\zad3_2.ml" 12 452 469
+type(
+  'c list list
+)
+ident(
+  int_ref listOfListAcc "Lista2\\zad3_2.ml" 6 172 213 "Lista2\\zad3_2.ml" 6 172 226
+)
+"Lista2\\zad3_2.ml" 12 452 470 "Lista2\\zad3_2.ml" 12 452 471
+type(
+  'c list list -> 'c list list -> 'c list list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lista2\\zad3_2.ml" 12 452 473 "Lista2\\zad3_2.ml" 12 452 480
+type(
+  'c list
+)
+ident(
+  int_ref listAcc "Lista2\\zad3_2.ml" 6 172 204 "Lista2\\zad3_2.ml" 6 172 211
+)
+"Lista2\\zad3_2.ml" 12 452 472 "Lista2\\zad3_2.ml" 12 452 481
+type(
+  'c list list
+)
+"Lista2\\zad3_2.ml" 12 452 456 "Lista2\\zad3_2.ml" 12 452 481
+type(
+  'c list list
+)
+"Lista2\\zad3_2.ml" 8 245 248 "Lista2\\zad3_2.ml" 12 452 481
+type(
+  'c list list
+)
+"Lista2\\zad3_2.ml" 13 483 488 "Lista2\\zad3_2.ml" 13 483 494
+type(
+  '_d list * int * '_d list * '_d list list * int -> '_d list list
+)
+ident(
+  int_ref divide "Lista2\\zad3_2.ml" 6 172 182 "Lista2\\zad3_2.ml" 6 172 188
+)

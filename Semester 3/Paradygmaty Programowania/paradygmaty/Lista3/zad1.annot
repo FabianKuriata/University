@@ -1,0 +1,370 @@
+"Lista3\\zad1.ml" 2 3 7 "Lista3\\zad1.ml" 2 3 12
+type(
+  float -> '_a
+)
+ident(
+  def euler "Lista3\\zad1.ml" 12 340 354 "Lista3\\zad1.ml" 1 0 -1
+)
+"Lista3\\zad1.ml" 2 3 13 "Lista3\\zad1.ml" 2 3 15
+type(
+  float
+)
+ident(
+  def ep "Lista3\\zad1.ml" 3 20 21 "Lista3\\zad1.ml" 12 340 354
+)
+"Lista3\\zad1.ml" 3 20 24 "Lista3\\zad1.ml" 3 20 26
+type(
+  float
+)
+ident(
+  int_ref ep "Lista3\\zad1.ml" 2 3 13 "Lista3\\zad1.ml" 2 3 15
+)
+"Lista3\\zad1.ml" 3 20 27 "Lista3\\zad1.ml" 3 20 28
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lista3\\zad1.ml" 3 20 29 "Lista3\\zad1.ml" 3 20 31
+type(
+  float
+)
+"Lista3\\zad1.ml" 3 20 24 "Lista3\\zad1.ml" 3 20 31
+type(
+  bool
+)
+"Lista3\\zad1.ml" 3 20 37 "Lista3\\zad1.ml" 3 20 45
+type(
+  string -> '_a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Lista3\\zad1.ml" 3 20 45 "Lista3\\zad1.ml" 3 20 75
+type(
+  string
+)
+"Lista3\\zad1.ml" 3 20 37 "Lista3\\zad1.ml" 3 20 75
+type(
+  '_a
+)
+"Lista3\\zad1.ml" 5 85 95 "Lista3\\zad1.ml" 5 85 106
+type(
+  float * float * float * float -> float
+)
+ident(
+  def eulerHelper "Lista3\\zad1.ml" 5 85 87 "Lista3\\zad1.ml" 12 340 354
+)
+"Lista3\\zad1.ml" 5 85 107 "Lista3\\zad1.ml" 5 85 111
+type(
+  float
+)
+ident(
+  def sum1 "Lista3\\zad1.ml" 6 129 132 "Lista3\\zad1.ml" 7 217 283
+)
+"Lista3\\zad1.ml" 5 85 113 "Lista3\\zad1.ml" 5 85 117
+type(
+  float
+)
+ident(
+  def sum2 "Lista3\\zad1.ml" 6 129 132 "Lista3\\zad1.ml" 7 217 283
+)
+"Lista3\\zad1.ml" 5 85 119 "Lista3\\zad1.ml" 5 85 121
+type(
+  float
+)
+ident(
+  def ep "Lista3\\zad1.ml" 6 129 132 "Lista3\\zad1.ml" 7 217 283
+)
+"Lista3\\zad1.ml" 5 85 123 "Lista3\\zad1.ml" 5 85 124
+type(
+  float
+)
+ident(
+  def n "Lista3\\zad1.ml" 6 129 132 "Lista3\\zad1.ml" 7 217 283
+)
+"Lista3\\zad1.ml" 5 85 106 "Lista3\\zad1.ml" 5 85 125
+type(
+  float * float * float * float
+)
+"Lista3\\zad1.ml" 6 129 135 "Lista3\\zad1.ml" 6 129 144
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.abs_float
+)
+"Lista3\\zad1.ml" 6 129 146 "Lista3\\zad1.ml" 6 129 150
+type(
+  float
+)
+ident(
+  int_ref sum1 "Lista3\\zad1.ml" 5 85 107 "Lista3\\zad1.ml" 5 85 111
+)
+"Lista3\\zad1.ml" 6 129 151 "Lista3\\zad1.ml" 6 129 153
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"Lista3\\zad1.ml" 6 129 154 "Lista3\\zad1.ml" 6 129 157
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.log
+)
+"Lista3\\zad1.ml" 6 129 158 "Lista3\\zad1.ml" 6 129 159
+type(
+  float
+)
+ident(
+  int_ref n "Lista3\\zad1.ml" 5 85 123 "Lista3\\zad1.ml" 5 85 124
+)
+"Lista3\\zad1.ml" 6 129 160 "Lista3\\zad1.ml" 6 129 162
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"Lista3\\zad1.ml" 6 129 163 "Lista3\\zad1.ml" 6 129 165
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 157 "Lista3\\zad1.ml" 6 129 166
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 154 "Lista3\\zad1.ml" 6 129 166
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 145 "Lista3\\zad1.ml" 6 129 167
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 168 "Lista3\\zad1.ml" 6 129 170
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"Lista3\\zad1.ml" 6 129 172 "Lista3\\zad1.ml" 6 129 176
+type(
+  float
+)
+ident(
+  int_ref sum2 "Lista3\\zad1.ml" 5 85 113 "Lista3\\zad1.ml" 5 85 117
+)
+"Lista3\\zad1.ml" 6 129 177 "Lista3\\zad1.ml" 6 129 179
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"Lista3\\zad1.ml" 6 129 180 "Lista3\\zad1.ml" 6 129 183
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.log
+)
+"Lista3\\zad1.ml" 6 129 183 "Lista3\\zad1.ml" 6 129 186
+type(
+  float
+)
+ident(
+  int_ref n "Lista3\\zad1.ml" 5 85 123 "Lista3\\zad1.ml" 5 85 124
+)
+"Lista3\\zad1.ml" 6 129 180 "Lista3\\zad1.ml" 6 129 186
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 171 "Lista3\\zad1.ml" 6 129 187
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 144 "Lista3\\zad1.ml" 6 129 188
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 135 "Lista3\\zad1.ml" 6 129 188
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 189 "Lista3\\zad1.ml" 6 129 190
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lista3\\zad1.ml" 6 129 191 "Lista3\\zad1.ml" 6 129 193
+type(
+  float
+)
+ident(
+  int_ref ep "Lista3\\zad1.ml" 5 85 119 "Lista3\\zad1.ml" 5 85 121
+)
+"Lista3\\zad1.ml" 6 129 135 "Lista3\\zad1.ml" 6 129 193
+type(
+  bool
+)
+"Lista3\\zad1.ml" 6 129 200 "Lista3\\zad1.ml" 6 129 204
+type(
+  float
+)
+ident(
+  int_ref sum2 "Lista3\\zad1.ml" 5 85 113 "Lista3\\zad1.ml" 5 85 117
+)
+"Lista3\\zad1.ml" 6 129 205 "Lista3\\zad1.ml" 6 129 207
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"Lista3\\zad1.ml" 6 129 208 "Lista3\\zad1.ml" 6 129 211
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.log
+)
+"Lista3\\zad1.ml" 6 129 211 "Lista3\\zad1.ml" 6 129 214
+type(
+  float
+)
+ident(
+  int_ref n "Lista3\\zad1.ml" 5 85 123 "Lista3\\zad1.ml" 5 85 124
+)
+"Lista3\\zad1.ml" 6 129 208 "Lista3\\zad1.ml" 6 129 214
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 199 "Lista3\\zad1.ml" 6 129 215
+type(
+  float
+)
+"Lista3\\zad1.ml" 7 217 225 "Lista3\\zad1.ml" 7 217 236
+type(
+  float * float * float * float -> float
+)
+ident(
+  int_ref eulerHelper "Lista3\\zad1.ml" 5 85 95 "Lista3\\zad1.ml" 5 85 106
+)
+"Lista3\\zad1.ml" 7 217 237 "Lista3\\zad1.ml" 7 217 241
+type(
+  float
+)
+ident(
+  int_ref sum2 "Lista3\\zad1.ml" 5 85 113 "Lista3\\zad1.ml" 5 85 117
+)
+"Lista3\\zad1.ml" 7 217 243 "Lista3\\zad1.ml" 7 217 247
+type(
+  float
+)
+ident(
+  int_ref sum2 "Lista3\\zad1.ml" 5 85 113 "Lista3\\zad1.ml" 5 85 117
+)
+"Lista3\\zad1.ml" 7 217 248 "Lista3\\zad1.ml" 7 217 250
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"Lista3\\zad1.ml" 7 217 252 "Lista3\\zad1.ml" 7 217 254
+type(
+  float
+)
+"Lista3\\zad1.ml" 7 217 255 "Lista3\\zad1.ml" 7 217 257
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"Lista3\\zad1.ml" 7 217 259 "Lista3\\zad1.ml" 7 217 260
+type(
+  float
+)
+ident(
+  int_ref n "Lista3\\zad1.ml" 5 85 123 "Lista3\\zad1.ml" 5 85 124
+)
+"Lista3\\zad1.ml" 7 217 261 "Lista3\\zad1.ml" 7 217 263
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"Lista3\\zad1.ml" 7 217 264 "Lista3\\zad1.ml" 7 217 266
+type(
+  float
+)
+"Lista3\\zad1.ml" 7 217 258 "Lista3\\zad1.ml" 7 217 267
+type(
+  float
+)
+"Lista3\\zad1.ml" 7 217 251 "Lista3\\zad1.ml" 7 217 268
+type(
+  float
+)
+"Lista3\\zad1.ml" 7 217 243 "Lista3\\zad1.ml" 7 217 268
+type(
+  float
+)
+"Lista3\\zad1.ml" 7 217 271 "Lista3\\zad1.ml" 7 217 273
+type(
+  float
+)
+ident(
+  int_ref ep "Lista3\\zad1.ml" 5 85 119 "Lista3\\zad1.ml" 5 85 121
+)
+"Lista3\\zad1.ml" 7 217 275 "Lista3\\zad1.ml" 7 217 276
+type(
+  float
+)
+ident(
+  int_ref n "Lista3\\zad1.ml" 5 85 123 "Lista3\\zad1.ml" 5 85 124
+)
+"Lista3\\zad1.ml" 7 217 277 "Lista3\\zad1.ml" 7 217 279
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"Lista3\\zad1.ml" 7 217 280 "Lista3\\zad1.ml" 7 217 282
+type(
+  float
+)
+"Lista3\\zad1.ml" 7 217 275 "Lista3\\zad1.ml" 7 217 282
+type(
+  float
+)
+"Lista3\\zad1.ml" 7 217 236 "Lista3\\zad1.ml" 7 217 283
+type(
+  float * float * float * float
+)
+"Lista3\\zad1.ml" 7 217 225 "Lista3\\zad1.ml" 7 217 283
+type(
+  float
+)
+"Lista3\\zad1.ml" 6 129 132 "Lista3\\zad1.ml" 7 217 283
+type(
+  float
+)
+"Lista3\\zad1.ml" 8 285 290 "Lista3\\zad1.ml" 8 285 301
+type(
+  float * float * float * float -> float
+)
+ident(
+  int_ref eulerHelper "Lista3\\zad1.ml" 5 85 95 "Lista3\\zad1.ml" 5 85 106
+)

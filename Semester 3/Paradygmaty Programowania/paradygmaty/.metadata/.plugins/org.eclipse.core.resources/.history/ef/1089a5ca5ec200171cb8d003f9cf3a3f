@@ -1,0 +1,33 @@
+let divideList (list, elements) = 
+	let rec divideListHelper (list, elements, counter) =
+		if counter > List.length list then []
+		else if(counter mod elements <> 0) then List.hd :: divideListHelper(List.tl list, elements, counter+1)
+		else []
+	in divideListHelper(list, elements, 1)
+	
+	
+	divideList([2;2],3)
+	
+	
+	let divideList (list, number) = 
+		let divide (list, number, counter) = 
+			match (list, counter) with
+			| ([],_) -> []
+			| (_,0) -> divide(list, number, number)
+			| (h::t, _) -> h::divide(t, number, counter-1) 
+		in divide(list, number, number)
+		
+	divideList([2;2;3;4;5],3)	
+	
+	
+	let split(list, number)=
+  let rec split1(list, number, lesser, greater)=
+    match list with
+    | [] -> [List.rev lesser;List.rev greater]
+    | head::tail ->
+      match (head <= number) with
+        true  -> split1(tail,number,head::lesser,greater)
+      | false -> split1(tail,number,lesser,head::greater)
+  in split1(list, number, [], []);;
+
+split([1;5;3;4;5;10;33],10);;
