@@ -1,0 +1,98 @@
+"Lista2\\zad1.ml" 7 145 149 "Lista2\\zad1.ml" 7 145 151
+type(
+  '_a * '_b * float -> '_a list * float
+)
+ident(
+  def fa "Lista2\\zad1.ml" 15 248 248 "Lista2\\zad1.ml" 1 0 -1
+)
+"Lista2\\zad1.ml" 7 145 153 "Lista2\\zad1.ml" 7 145 154
+type(
+  '_a
+)
+ident(
+  def a "Lista2\\zad1.ml" 8 165 167 "Lista2\\zad1.ml" 11 211 239
+)
+"Lista2\\zad1.ml" 7 145 156 "Lista2\\zad1.ml" 7 145 157
+type(
+  '_b
+)
+ident(
+  def b "Lista2\\zad1.ml" 8 165 167 "Lista2\\zad1.ml" 11 211 239
+)
+"Lista2\\zad1.ml" 7 145 159 "Lista2\\zad1.ml" 7 145 160
+type(
+  float
+)
+ident(
+  def c "Lista2\\zad1.ml" 8 165 167 "Lista2\\zad1.ml" 11 211 239
+)
+"Lista2\\zad1.ml" 7 145 152 "Lista2\\zad1.ml" 7 145 161
+type(
+  '_a * '_b * float
+)
+"Lista2\\zad1.ml" 8 165 170 "Lista2\\zad1.ml" 8 165 171
+type(
+  float
+)
+ident(
+  int_ref c "Lista2\\zad1.ml" 7 145 159 "Lista2\\zad1.ml" 7 145 160
+)
+"Lista2\\zad1.ml" 8 165 172 "Lista2\\zad1.ml" 8 165 173
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"Lista2\\zad1.ml" 8 165 174 "Lista2\\zad1.ml" 8 165 176
+type(
+  float
+)
+"Lista2\\zad1.ml" 8 165 170 "Lista2\\zad1.ml" 8 165 176
+type(
+  bool
+)
+"Lista2\\zad1.ml" 8 165 184 "Lista2\\zad1.ml" 8 165 185
+type(
+  '_a
+)
+ident(
+  int_ref a "Lista2\\zad1.ml" 7 145 153 "Lista2\\zad1.ml" 7 145 154
+)
+"Lista2\\zad1.ml" 8 165 183 "Lista2\\zad1.ml" 8 165 186
+type(
+  '_a list
+)
+"Lista2\\zad1.ml" 8 165 187 "Lista2\\zad1.ml" 8 165 188
+type(
+  float
+)
+ident(
+  int_ref c "Lista2\\zad1.ml" 7 145 159 "Lista2\\zad1.ml" 7 145 160
+)
+"Lista2\\zad1.ml" 8 165 182 "Lista2\\zad1.ml" 8 165 189
+type(
+  '_a list * float
+)
+"Lista2\\zad1.ml" 9 191 200 "Lista2\\zad1.ml" 9 191 201
+type(
+  '_b
+)
+ident(
+  int_ref b "Lista2\\zad1.ml" 7 145 156 "Lista2\\zad1.ml" 7 145 157
+)
+"Lista2\\zad1.ml" 9 191 199 "Lista2\\zad1.ml" 9 191 202
+type(
+  '_b list
+)
+"Lista2\\zad1.ml" 9 191 203 "Lista2\\zad1.ml" 9 191 204
+type(
+  float
+)
+ident(
+  int_ref c "Lista2\\zad1.ml" 7 145 159 "Lista2\\zad1.ml" 7 145 160
+)
+"Lista2\\zad1.ml" 9 191 198 "Lista2\\zad1.ml" 9 191 205
+type(
+  '_b list * float
+)

@@ -1,0 +1,15 @@
+let delete (number,list)  =
+	if number < 0 then failwith "Podano ujemny argument"
+	else if number*2 > List.length list then failwith "W liscie nie ma tylu elementow"
+	else
+		let rec del(list, num) =
+			match num with
+			| 0 -> list
+			| a -> del((List.rev (List.tl list)),num - 1 )
+		in del(list, number*2)
+	
+delete (3,[3;2;4;1;4;2])
+	
+	
+	
+	

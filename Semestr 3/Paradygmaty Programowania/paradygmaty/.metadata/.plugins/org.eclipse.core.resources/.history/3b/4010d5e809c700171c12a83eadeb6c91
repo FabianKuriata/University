@@ -1,0 +1,9 @@
+let delete(list, number) =
+	let rec del(list, number, counter) =
+		match (list, counter) with
+		| ([], _) -> []
+		| (h::t, _) -> del(t, number, counter+1)
+		| (h::t, 2) -> h::del(t, number, counter+1)
+	in del(list, number, 0)
+	
+	

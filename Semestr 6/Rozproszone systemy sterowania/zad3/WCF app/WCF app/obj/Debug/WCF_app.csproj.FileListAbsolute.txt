@@ -1,0 +1,6 @@
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WCF app\bin\Debug\WCF app.dll.config
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WCF app\bin\Debug\WCF app.dll
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WCF app\bin\Debug\WCF app.pdb
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WCF app\obj\Debug\WCF_app.csproj.CoreCompileInputs.cache
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WCF app\obj\Debug\WCF app.dll
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WCF app\obj\Debug\WCF app.pdb

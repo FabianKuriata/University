@@ -1,0 +1,776 @@
+"lista_pierwsza\\z1.ml" 1 0 4 "lista_pierwsza\\z1.ml" 1 0 11
+type(
+  float * float * float -> float
+)
+ident(
+  def trojkat "lista_pierwsza\\z1.ml" 7 260 260 "lista_pierwsza\\z1.ml" 1 0 -1
+)
+"lista_pierwsza\\z1.ml" 1 0 13 "lista_pierwsza\\z1.ml" 1 0 14
+type(
+  float
+)
+ident(
+  def a "lista_pierwsza\\z1.ml" 2 25 26 "lista_pierwsza\\z1.ml" 5 201 254
+)
+"lista_pierwsza\\z1.ml" 1 0 16 "lista_pierwsza\\z1.ml" 1 0 17
+type(
+  float
+)
+ident(
+  def b "lista_pierwsza\\z1.ml" 2 25 26 "lista_pierwsza\\z1.ml" 5 201 254
+)
+"lista_pierwsza\\z1.ml" 1 0 19 "lista_pierwsza\\z1.ml" 1 0 20
+type(
+  float
+)
+ident(
+  def c "lista_pierwsza\\z1.ml" 2 25 26 "lista_pierwsza\\z1.ml" 5 201 254
+)
+"lista_pierwsza\\z1.ml" 1 0 12 "lista_pierwsza\\z1.ml" 1 0 21
+type(
+  float * float * float
+)
+"lista_pierwsza\\z1.ml" 2 25 31 "lista_pierwsza\\z1.ml" 2 25 32
+type(
+  float
+)
+ident(
+  int_ref a "lista_pierwsza\\z1.ml" 1 0 13 "lista_pierwsza\\z1.ml" 1 0 14
+)
+"lista_pierwsza\\z1.ml" 2 25 32 "lista_pierwsza\\z1.ml" 2 25 34
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"lista_pierwsza\\z1.ml" 2 25 34 "lista_pierwsza\\z1.ml" 2 25 37
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 2 25 30 "lista_pierwsza\\z1.ml" 2 25 38
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 2 25 38 "lista_pierwsza\\z1.ml" 2 25 40
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"lista_pierwsza\\z1.ml" 2 25 41 "lista_pierwsza\\z1.ml" 2 25 42
+type(
+  float
+)
+ident(
+  int_ref b "lista_pierwsza\\z1.ml" 1 0 16 "lista_pierwsza\\z1.ml" 1 0 17
+)
+"lista_pierwsza\\z1.ml" 2 25 42 "lista_pierwsza\\z1.ml" 2 25 44
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"lista_pierwsza\\z1.ml" 2 25 44 "lista_pierwsza\\z1.ml" 2 25 47
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 2 25 40 "lista_pierwsza\\z1.ml" 2 25 48
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 2 25 48 "lista_pierwsza\\z1.ml" 2 25 50
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"lista_pierwsza\\z1.ml" 2 25 51 "lista_pierwsza\\z1.ml" 2 25 52
+type(
+  float
+)
+ident(
+  int_ref c "lista_pierwsza\\z1.ml" 1 0 19 "lista_pierwsza\\z1.ml" 1 0 20
+)
+"lista_pierwsza\\z1.ml" 2 25 52 "lista_pierwsza\\z1.ml" 2 25 54
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"lista_pierwsza\\z1.ml" 2 25 54 "lista_pierwsza\\z1.ml" 2 25 57
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 2 25 50 "lista_pierwsza\\z1.ml" 2 25 58
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 2 25 40 "lista_pierwsza\\z1.ml" 2 25 58
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 2 25 29 "lista_pierwsza\\z1.ml" 2 25 59
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 2 25 65 "lista_pierwsza\\z1.ml" 2 25 73
+type(
+  string -> float
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"lista_pierwsza\\z1.ml" 2 25 74 "lista_pierwsza\\z1.ml" 2 25 98
+type(
+  string
+)
+"lista_pierwsza\\z1.ml" 2 25 65 "lista_pierwsza\\z1.ml" 2 25 98
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 3 101 110 "lista_pierwsza\\z1.ml" 3 101 119
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.abs_float
+)
+"lista_pierwsza\\z1.ml" 3 101 120 "lista_pierwsza\\z1.ml" 3 101 121
+type(
+  float
+)
+ident(
+  int_ref b "lista_pierwsza\\z1.ml" 1 0 16 "lista_pierwsza\\z1.ml" 1 0 17
+)
+"lista_pierwsza\\z1.ml" 3 101 121 "lista_pierwsza\\z1.ml" 3 101 123
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"lista_pierwsza\\z1.ml" 3 101 123 "lista_pierwsza\\z1.ml" 3 101 124
+type(
+  float
+)
+ident(
+  int_ref c "lista_pierwsza\\z1.ml" 1 0 19 "lista_pierwsza\\z1.ml" 1 0 20
+)
+"lista_pierwsza\\z1.ml" 3 101 119 "lista_pierwsza\\z1.ml" 3 101 125
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 3 101 110 "lista_pierwsza\\z1.ml" 3 101 125
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 3 101 125 "lista_pierwsza\\z1.ml" 3 101 127
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"lista_pierwsza\\z1.ml" 3 101 127 "lista_pierwsza\\z1.ml" 3 101 128
+type(
+  float
+)
+ident(
+  int_ref a "lista_pierwsza\\z1.ml" 1 0 13 "lista_pierwsza\\z1.ml" 1 0 14
+)
+"lista_pierwsza\\z1.ml" 3 101 110 "lista_pierwsza\\z1.ml" 3 101 128
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 3 101 129 "lista_pierwsza\\z1.ml" 3 101 131
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"lista_pierwsza\\z1.ml" 3 101 132 "lista_pierwsza\\z1.ml" 3 101 133
+type(
+  float
+)
+ident(
+  int_ref a "lista_pierwsza\\z1.ml" 1 0 13 "lista_pierwsza\\z1.ml" 1 0 14
+)
+"lista_pierwsza\\z1.ml" 3 101 133 "lista_pierwsza\\z1.ml" 3 101 135
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"lista_pierwsza\\z1.ml" 3 101 135 "lista_pierwsza\\z1.ml" 3 101 136
+type(
+  float
+)
+ident(
+  int_ref b "lista_pierwsza\\z1.ml" 1 0 16 "lista_pierwsza\\z1.ml" 1 0 17
+)
+"lista_pierwsza\\z1.ml" 3 101 136 "lista_pierwsza\\z1.ml" 3 101 138
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"lista_pierwsza\\z1.ml" 3 101 138 "lista_pierwsza\\z1.ml" 3 101 139
+type(
+  float
+)
+ident(
+  int_ref c "lista_pierwsza\\z1.ml" 1 0 19 "lista_pierwsza\\z1.ml" 1 0 20
+)
+"lista_pierwsza\\z1.ml" 3 101 135 "lista_pierwsza\\z1.ml" 3 101 139
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 3 101 132 "lista_pierwsza\\z1.ml" 3 101 139
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 3 101 110 "lista_pierwsza\\z1.ml" 3 101 139
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 3 101 145 "lista_pierwsza\\z1.ml" 3 101 153
+type(
+  string -> float
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"lista_pierwsza\\z1.ml" 3 101 154 "lista_pierwsza\\z1.ml" 3 101 191
+type(
+  string
+)
+"lista_pierwsza\\z1.ml" 3 101 145 "lista_pierwsza\\z1.ml" 3 101 191
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 207 "lista_pierwsza\\z1.ml" 5 201 208
+type(
+  float
+)
+ident(
+  def p "lista_pierwsza\\z1.ml" 5 201 229 "lista_pierwsza\\z1.ml" 5 201 254
+)
+"lista_pierwsza\\z1.ml" 5 201 212 "lista_pierwsza\\z1.ml" 5 201 213
+type(
+  float
+)
+ident(
+  int_ref a "lista_pierwsza\\z1.ml" 1 0 13 "lista_pierwsza\\z1.ml" 1 0 14
+)
+"lista_pierwsza\\z1.ml" 5 201 213 "lista_pierwsza\\z1.ml" 5 201 215
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"lista_pierwsza\\z1.ml" 5 201 215 "lista_pierwsza\\z1.ml" 5 201 216
+type(
+  float
+)
+ident(
+  int_ref b "lista_pierwsza\\z1.ml" 1 0 16 "lista_pierwsza\\z1.ml" 1 0 17
+)
+"lista_pierwsza\\z1.ml" 5 201 212 "lista_pierwsza\\z1.ml" 5 201 216
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 216 "lista_pierwsza\\z1.ml" 5 201 218
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"lista_pierwsza\\z1.ml" 5 201 218 "lista_pierwsza\\z1.ml" 5 201 219
+type(
+  float
+)
+ident(
+  int_ref c "lista_pierwsza\\z1.ml" 1 0 19 "lista_pierwsza\\z1.ml" 1 0 20
+)
+"lista_pierwsza\\z1.ml" 5 201 211 "lista_pierwsza\\z1.ml" 5 201 220
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 220 "lista_pierwsza\\z1.ml" 5 201 222
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"lista_pierwsza\\z1.ml" 5 201 222 "lista_pierwsza\\z1.ml" 5 201 225
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 211 "lista_pierwsza\\z1.ml" 5 201 225
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 229 "lista_pierwsza\\z1.ml" 5 201 230
+type(
+  float
+)
+ident(
+  int_ref p "lista_pierwsza\\z1.ml" 5 201 207 "lista_pierwsza\\z1.ml" 5 201 208
+)
+"lista_pierwsza\\z1.ml" 5 201 230 "lista_pierwsza\\z1.ml" 5 201 232
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"lista_pierwsza\\z1.ml" 5 201 233 "lista_pierwsza\\z1.ml" 5 201 234
+type(
+  float
+)
+ident(
+  int_ref p "lista_pierwsza\\z1.ml" 5 201 207 "lista_pierwsza\\z1.ml" 5 201 208
+)
+"lista_pierwsza\\z1.ml" 5 201 234 "lista_pierwsza\\z1.ml" 5 201 236
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"lista_pierwsza\\z1.ml" 5 201 236 "lista_pierwsza\\z1.ml" 5 201 237
+type(
+  float
+)
+ident(
+  int_ref a "lista_pierwsza\\z1.ml" 1 0 13 "lista_pierwsza\\z1.ml" 1 0 14
+)
+"lista_pierwsza\\z1.ml" 5 201 232 "lista_pierwsza\\z1.ml" 5 201 238
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 229 "lista_pierwsza\\z1.ml" 5 201 238
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 238 "lista_pierwsza\\z1.ml" 5 201 240
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"lista_pierwsza\\z1.ml" 5 201 241 "lista_pierwsza\\z1.ml" 5 201 242
+type(
+  float
+)
+ident(
+  int_ref p "lista_pierwsza\\z1.ml" 5 201 207 "lista_pierwsza\\z1.ml" 5 201 208
+)
+"lista_pierwsza\\z1.ml" 5 201 242 "lista_pierwsza\\z1.ml" 5 201 244
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"lista_pierwsza\\z1.ml" 5 201 244 "lista_pierwsza\\z1.ml" 5 201 245
+type(
+  float
+)
+ident(
+  int_ref b "lista_pierwsza\\z1.ml" 1 0 16 "lista_pierwsza\\z1.ml" 1 0 17
+)
+"lista_pierwsza\\z1.ml" 5 201 240 "lista_pierwsza\\z1.ml" 5 201 246
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 229 "lista_pierwsza\\z1.ml" 5 201 246
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 246 "lista_pierwsza\\z1.ml" 5 201 248
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"lista_pierwsza\\z1.ml" 5 201 249 "lista_pierwsza\\z1.ml" 5 201 250
+type(
+  float
+)
+ident(
+  int_ref p "lista_pierwsza\\z1.ml" 5 201 207 "lista_pierwsza\\z1.ml" 5 201 208
+)
+"lista_pierwsza\\z1.ml" 5 201 250 "lista_pierwsza\\z1.ml" 5 201 252
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"lista_pierwsza\\z1.ml" 5 201 252 "lista_pierwsza\\z1.ml" 5 201 253
+type(
+  float
+)
+ident(
+  int_ref c "lista_pierwsza\\z1.ml" 1 0 19 "lista_pierwsza\\z1.ml" 1 0 20
+)
+"lista_pierwsza\\z1.ml" 5 201 248 "lista_pierwsza\\z1.ml" 5 201 254
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 229 "lista_pierwsza\\z1.ml" 5 201 254
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 5 201 203 "lista_pierwsza\\z1.ml" 5 201 254
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 3 101 107 "lista_pierwsza\\z1.ml" 5 201 254
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 2 25 26 "lista_pierwsza\\z1.ml" 5 201 254
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 7 260 260 "lista_pierwsza\\z1.ml" 7 260 267
+type(
+  float * float * float -> float
+)
+ident(
+  int_ref trojkat "lista_pierwsza\\z1.ml" 1 0 4 "lista_pierwsza\\z1.ml" 1 0 11
+)
+"lista_pierwsza\\z1.ml" 7 260 268 "lista_pierwsza\\z1.ml" 7 260 271
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 7 260 273 "lista_pierwsza\\z1.ml" 7 260 276
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 7 260 278 "lista_pierwsza\\z1.ml" 7 260 281
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 7 260 267 "lista_pierwsza\\z1.ml" 7 260 282
+type(
+  float * float * float
+)
+"lista_pierwsza\\z1.ml" 7 260 260 "lista_pierwsza\\z1.ml" 7 260 282
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 13 310 318 "lista_pierwsza\\z1.ml" 13 310 324
+type(
+  int * float -> float
+)
+ident(
+  def szereg "lista_pierwsza\\z1.ml" 13 310 310 "lista_pierwsza\\z1.ml" 1 0 -1
+)
+"lista_pierwsza\\z1.ml" 13 310 325 "lista_pierwsza\\z1.ml" 13 310 326
+type(
+  int
+)
+ident(
+  def n "lista_pierwsza\\z1.ml" 14 334 335 "lista_pierwsza\\z1.ml" 20 524 536
+)
+"lista_pierwsza\\z1.ml" 13 310 328 "lista_pierwsza\\z1.ml" 13 310 329
+type(
+  float
+)
+ident(
+  def x "lista_pierwsza\\z1.ml" 14 334 335 "lista_pierwsza\\z1.ml" 20 524 536
+)
+"lista_pierwsza\\z1.ml" 13 310 324 "lista_pierwsza\\z1.ml" 13 310 330
+type(
+  int * float
+)
+"lista_pierwsza\\z1.ml" 14 334 343 "lista_pierwsza\\z1.ml" 14 334 349
+type(
+  int -> int
+)
+ident(
+  def silnia "lista_pierwsza\\z1.ml" 14 334 335 "lista_pierwsza\\z1.ml" 20 524 536
+)
+"lista_pierwsza\\z1.ml" 14 334 351 "lista_pierwsza\\z1.ml" 14 334 352
+ident(
+  def t "lista_pierwsza\\z1.ml" 15 357 359 "lista_pierwsza\\z1.ml" 16 377 399
+)
+"lista_pierwsza\\z1.ml" 14 334 350 "lista_pierwsza\\z1.ml" 14 334 353
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 15 357 362 "lista_pierwsza\\z1.ml" 15 357 363
+type(
+  int
+)
+ident(
+  int_ref t "lista_pierwsza\\z1.ml" 14 334 350 "lista_pierwsza\\z1.ml" 14 334 353
+)
+"lista_pierwsza\\z1.ml" 15 357 364 "lista_pierwsza\\z1.ml" 15 357 366
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"lista_pierwsza\\z1.ml" 15 357 367 "lista_pierwsza\\z1.ml" 15 357 368
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 15 357 362 "lista_pierwsza\\z1.ml" 15 357 368
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 15 357 374 "lista_pierwsza\\z1.ml" 15 357 375
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 16 377 384 "lista_pierwsza\\z1.ml" 16 377 385
+type(
+  int
+)
+ident(
+  int_ref t "lista_pierwsza\\z1.ml" 14 334 350 "lista_pierwsza\\z1.ml" 14 334 353
+)
+"lista_pierwsza\\z1.ml" 16 377 386 "lista_pierwsza\\z1.ml" 16 377 387
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"lista_pierwsza\\z1.ml" 16 377 388 "lista_pierwsza\\z1.ml" 16 377 394
+type(
+  int -> int
+)
+ident(
+  int_ref silnia "lista_pierwsza\\z1.ml" 14 334 343 "lista_pierwsza\\z1.ml" 14 334 349
+)
+"lista_pierwsza\\z1.ml" 16 377 395 "lista_pierwsza\\z1.ml" 16 377 396
+type(
+  int
+)
+ident(
+  int_ref t "lista_pierwsza\\z1.ml" 14 334 350 "lista_pierwsza\\z1.ml" 14 334 353
+)
+"lista_pierwsza\\z1.ml" 16 377 396 "lista_pierwsza\\z1.ml" 16 377 397
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"lista_pierwsza\\z1.ml" 16 377 397 "lista_pierwsza\\z1.ml" 16 377 398
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 16 377 394 "lista_pierwsza\\z1.ml" 16 377 399
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 16 377 388 "lista_pierwsza\\z1.ml" 16 377 399
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 16 377 384 "lista_pierwsza\\z1.ml" 16 377 399
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 15 357 359 "lista_pierwsza\\z1.ml" 16 377 399
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 17 404 408 "lista_pierwsza\\z1.ml" 17 404 409
+type(
+  int
+)
+ident(
+  int_ref n "lista_pierwsza\\z1.ml" 13 310 325 "lista_pierwsza\\z1.ml" 13 310 326
+)
+"lista_pierwsza\\z1.ml" 17 404 409 "lista_pierwsza\\z1.ml" 17 404 410
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"lista_pierwsza\\z1.ml" 17 404 410 "lista_pierwsza\\z1.ml" 17 404 411
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 17 404 408 "lista_pierwsza\\z1.ml" 17 404 411
+type(
+  bool
+)
+"lista_pierwsza\\z1.ml" 17 404 417 "lista_pierwsza\\z1.ml" 17 404 420
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 17 404 420 "lista_pierwsza\\z1.ml" 17 404 422
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"lista_pierwsza\\z1.ml" 17 404 422 "lista_pierwsza\\z1.ml" 17 404 423
+type(
+  float
+)
+ident(
+  int_ref x "lista_pierwsza\\z1.ml" 13 310 328 "lista_pierwsza\\z1.ml" 13 310 329
+)
+"lista_pierwsza\\z1.ml" 17 404 417 "lista_pierwsza\\z1.ml" 17 404 423
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 18 425 432 "lista_pierwsza\\z1.ml" 18 425 437
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 18 425 437 "lista_pierwsza\\z1.ml" 18 425 439
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( ** )
+)
+"lista_pierwsza\\z1.ml" 18 425 439 "lista_pierwsza\\z1.ml" 18 425 451
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float_of_int
+)
+"lista_pierwsza\\z1.ml" 18 425 451 "lista_pierwsza\\z1.ml" 18 425 454
+type(
+  int
+)
+ident(
+  int_ref n "lista_pierwsza\\z1.ml" 13 310 325 "lista_pierwsza\\z1.ml" 13 310 326
+)
+"lista_pierwsza\\z1.ml" 18 425 439 "lista_pierwsza\\z1.ml" 18 425 454
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 18 425 432 "lista_pierwsza\\z1.ml" 18 425 454
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 18 425 455 "lista_pierwsza\\z1.ml" 18 425 457
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"lista_pierwsza\\z1.ml" 18 425 458 "lista_pierwsza\\z1.ml" 18 425 459
+type(
+  float
+)
+ident(
+  int_ref x "lista_pierwsza\\z1.ml" 13 310 328 "lista_pierwsza\\z1.ml" 13 310 329
+)
+"lista_pierwsza\\z1.ml" 18 425 459 "lista_pierwsza\\z1.ml" 18 425 461
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( ** )
+)
+"lista_pierwsza\\z1.ml" 18 425 461 "lista_pierwsza\\z1.ml" 18 425 473
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float_of_int
+)
+"lista_pierwsza\\z1.ml" 18 425 473 "lista_pierwsza\\z1.ml" 18 425 476
+type(
+  int
+)
+ident(
+  int_ref n "lista_pierwsza\\z1.ml" 13 310 325 "lista_pierwsza\\z1.ml" 13 310 326
+)
+"lista_pierwsza\\z1.ml" 18 425 461 "lista_pierwsza\\z1.ml" 18 425 476
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 18 425 458 "lista_pierwsza\\z1.ml" 18 425 476
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 18 425 431 "lista_pierwsza\\z1.ml" 18 425 477
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 18 425 477 "lista_pierwsza\\z1.ml" 18 425 479
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"lista_pierwsza\\z1.ml" 18 425 479 "lista_pierwsza\\z1.ml" 18 425 491
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float_of_int
+)
+"lista_pierwsza\\z1.ml" 18 425 492 "lista_pierwsza\\z1.ml" 18 425 498
+type(
+  int -> int
+)
+ident(
+  int_ref silnia "lista_pierwsza\\z1.ml" 14 334 343 "lista_pierwsza\\z1.ml" 14 334 349
+)
+"lista_pierwsza\\z1.ml" 18 425 498 "lista_pierwsza\\z1.ml" 18 425 501
+type(
+  int
+)
+ident(
+  int_ref n "lista_pierwsza\\z1.ml" 13 310 325 "lista_pierwsza\\z1.ml" 13 310 326
+)
+"lista_pierwsza\\z1.ml" 18 425 491 "lista_pierwsza\\z1.ml" 18 425 502
+type(
+  int
+)
+"lista_pierwsza\\z1.ml" 18 425 479 "lista_pierwsza\\z1.ml" 18 425 502
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 18 425 431 "lista_pierwsza\\z1.ml" 18 425 502
+type(
+  float
+)
+"lista_pierwsza\\z1.ml" 18 425 503 "lista_pierwsza\\z1.ml" 18 425 505
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"lista_pierwsza\\z1.ml" 18 425 506 "lista_pierwsza\\z1.ml" 18 425 512
+type(
+  int * float -> float
+)
+ident(
+  int_ref szereg "lista_pierwsza\\z1.ml" 13 310 318 "lista_pierwsza\\z1.ml" 13 310 324
+)

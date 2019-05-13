@@ -1,0 +1,12 @@
+let delete (number,list)  =
+	let rec del(list, num) =
+		match num with
+		| 0 -> list
+		| a -> del((List.rev (List.tl list)),num - 1 )
+	in del(list, number*2)
+	
+delete (1,[3;2;4;1;4;2])
+	
+	
+	
+	
