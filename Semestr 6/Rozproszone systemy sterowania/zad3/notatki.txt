@@ -1,0 +1,4 @@
+typy na intach
+
+wyrzucanie wyj¹tków i wyœwietlanie np dzielenie przez zero, klient powinien go obs³u¿yæ.
+Dwie operacje module i dzielenie

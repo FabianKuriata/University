@@ -1,0 +1,60 @@
+﻿  Tools.cpp
+  Test.cpp
+  TemplTree.cpp
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(29): warning C4661: 'TemplTree<char> TemplTree<char>::getCharTree(TemplNode<std::string> *&)': no suitable definition provided for explicit template instantiation request
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(22): note: see declaration of 'TemplTree<char>::getCharTree'
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(29): warning C4661: 'void TemplTree<char>::changeToChar(void)': no suitable definition provided for explicit template instantiation request
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(23): note: see declaration of 'TemplTree<char>::changeToChar'
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(29): warning C4661: 'void TemplTree<std::string>::changeToChar(void)': no suitable definition provided for explicit template instantiation request
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(23): note: see declaration of 'TemplTree<std::string>::changeToChar'
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(250): warning C4661: 'TemplTree<char> TemplTree<int>::getCharTree(TemplNode<std::string> *&)': no suitable definition provided for explicit template instantiation request
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(22): note: see declaration of 'TemplTree<int>::getCharTree'
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(250): warning C4661: 'void TemplTree<int>::changeToChar(void)': no suitable definition provided for explicit template instantiation request
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(23): note: see declaration of 'TemplTree<int>::changeToChar'
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(251): warning C4661: 'TemplTree<char> TemplTree<double>::getCharTree(TemplNode<std::string> *&)': no suitable definition provided for explicit template instantiation request
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(22): note: see declaration of 'TemplTree<double>::getCharTree'
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(251): warning C4661: 'void TemplTree<double>::changeToChar(void)': no suitable definition provided for explicit template instantiation request
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.h(23): note: see declaration of 'TemplTree<double>::changeToChar'
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(59): error C2664: 'TemplTree<char> TemplTree<char>::getCharTree(TemplNode<std::string> *&)': cannot convert argument 1 from 'TemplNode<T> *' to 'TemplNode<std::string> *&'
+          with
+          [
+              T=char
+          ]
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(32): note: while compiling class template member function 'bool TemplTree<char>::build(std::string)'
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(180): note: see reference to class template instantiation 'TemplTree<char>' being compiled
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(90): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(84): note: while compiling class template member function 'void TemplTree<char>::repairExp(std::string &,std::vector<std::string,std::allocator<_Ty>> &,int)'
+          with
+          [
+              _Ty=std::string
+          ]
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(59): error C2664: 'TemplTree<char> TemplTree<int>::getCharTree(TemplNode<std::string> *&)': cannot convert argument 1 from 'TemplNode<T> *' to 'TemplNode<std::string> *&'
+          with
+          [
+              T=int
+          ]
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(32): note: while compiling class template member function 'bool TemplTree<int>::build(std::string)'
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(250): note: see reference to class template instantiation 'TemplTree<int>' being compiled
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(59): error C2664: 'TemplTree<char> TemplTree<double>::getCharTree(TemplNode<std::string> *&)': cannot convert argument 1 from 'TemplNode<T> *' to 'TemplNode<std::string> *&'
+          with
+          [
+              T=double
+          ]
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(32): note: while compiling class template member function 'bool TemplTree<double>::build(std::string)'
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templtree.cpp(251): note: see reference to class template instantiation 'TemplTree<double>' being compiled
+  TemplNode.cpp
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(49): note: while compiling class template member function 'void TemplNode<int>::setNodeType(std::string)'
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(21): note: see reference to function template instantiation 'void TemplNode<int>::setNodeType(std::string)' being compiled
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(334): note: see reference to class template instantiation 'TemplNode<int>' being compiled
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(70): note: while compiling class template member function 'int TemplNode<int>::compute(void)'
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(114): error C2109: subscript requires array or pointer type
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(109): note: while compiling class template member function 'void TemplNode<int>::changeToChar(void)'
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(64): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(49): note: while compiling class template member function 'void TemplNode<char>::setNodeType(std::string)'
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(337): note: see reference to class template instantiation 'TemplNode<char>' being compiled
+d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(99): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  d:\studia\studia\git\university\semester 3\zmpo\laby\lista5-szablony\lista5-szablony\templnode.cpp(70): note: while compiling class template member function 'char TemplNode<char>::compute(void)'
+  Main.cpp
+  Generating Code...

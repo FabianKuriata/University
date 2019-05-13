@@ -1,0 +1,11 @@
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\bin\Debug\WcfServiceClient.exe.config
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\bin\Debug\WcfServiceClient.exe
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\bin\Debug\WcfServiceClient.pdb
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\obj\Debug\WcfServiceClient.csprojAssemblyReference.cache
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\obj\Debug\WcfServiceClient.csproj.CoreCompileInputs.cache
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\obj\Debug\WcfServiceClient.exe
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\obj\Debug\WcfServiceClient.pdb
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\bin\Debug\WCF app.dll
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\bin\Debug\WCF app.pdb
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\bin\Debug\WCF app.dll.config
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceClient\obj\Debug\WcfServiceClient.csproj.CopyComplete

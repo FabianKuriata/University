@@ -1,0 +1,11 @@
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\bin\Debug\WcfServiceHost2.exe.config
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\bin\Debug\WcfServiceHost2.exe
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\bin\Debug\WcfServiceHost2.pdb
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\bin\Debug\WCF app.dll
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\bin\Debug\WCF app.pdb
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\bin\Debug\WCF app.dll.config
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\obj\Debug\WcfServiceHost2.csprojAssemblyReference.cache
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\obj\Debug\WcfServiceHost2.csproj.CoreCompileInputs.cache
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\obj\Debug\WcfServiceHost2.csproj.CopyComplete
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\obj\Debug\WcfServiceHost2.exe
+D:\Studia\Studia\Semestr 6\RSI\zad3\WCF app\WcfServiceHost2\obj\Debug\WcfServiceHost2.pdb
